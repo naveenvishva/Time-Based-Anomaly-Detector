@@ -50,12 +50,3 @@ NumPy Runtime: 0.0124s
 Pandas Runtime: 0.0531s
 → NumPy is 4.3× faster
 Benchmark code available in notebook under benchmark() function.
-
-📤 Output
-Final CSV report includes:
-
-Date	Value	Smoothed	Difference	Anomaly	Severity	Alert
-
-Example filename:
-anomaly_report_20250720_1210.csv
-
